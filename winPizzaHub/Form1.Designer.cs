@@ -121,7 +121,7 @@ namespace winPizzaHub
             this.groupBox2.Size = new System.Drawing.Size(683, 200);
             this.groupBox2.TabIndex = 3;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Скьяччата";
+            this.groupBox2.Text = "Скьяччата(Schiacciata)";
             // 
             // label5
             // 
